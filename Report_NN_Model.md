@@ -54,7 +54,7 @@
    - What steps did you take in your attempts to increase model performance? 
        - I changed the number of features from 9 to 7, I changed the number of layers from 3 to 5 and back to 3, 5 layers performed slightly better. I changed all of the activation functions of the layers, I changed the number of epochs from 100 to 120, 100 performed the best.
       
-**Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+### **Summary**: 
 
 Overall, the neural network model that I created to classify the binary outcome variable of IS_SUCCESSFUL was just over 72% accurate. This is better than random chance so it could helpful to Alphabet Soup to get money to organizations that could do a better than average chance to put the money to good use. However, the model could be improved by adding more features that could greatly increase model performance. 
 
